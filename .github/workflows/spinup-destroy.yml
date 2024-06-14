@@ -12,7 +12,7 @@ env:
   ###############################################
   ### Replace c-southwest with GitHub username ###
   ###############################################
-  AZURE_WEBAPP_NAME: c-southwest-ttt-app
+  AZURE_WEBAPP_NAME: c-southwest-ttt-app 
 
 jobs:
   setup-up-azure-resources:
